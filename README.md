@@ -1,11 +1,16 @@
 # TUGAS PEMROGRAMAN WEB 2 - PERTEMUAN 14
 
-## 1. Auto-Generate Kode Anggota
-![Auto-Generate Kode Anggota](ss-testing/auto-generate-kode-anggota.png)
+## 1. Fitur Pengembalian Buku
+![Fitur Pengembalian Buku](ss-testing/pengembalian-buku.png)
+![Fitur Pengembalian Buku](ss-testing/pengembalian-buku1.png)
+![Fitur Pengembalian Buku](ss-testing/pengembalian-buku2.png)
 
-## 2. Export Anggota ke Excel 
-![Export Anggota ke Excel](ss-testing/ekspor-excel.png)
-![Hasil Export Anggota dari Excel](ss-testing/hasil-ekspor.png)
+## 2. Laporan Transaksi 
+![Laporan Transaksi](ss-testing/laporan-transaksi.png)
+![Laporan Transaksi](ss-testing/laporan-transaksi-filter.png)
+![Laporan Transaksi](ss-testing/lt-pdf.png)
 
-## 3. Advanced Search & Filter
-![Advanced Search & Filter](ss-testing/advanced-search-filter.png)
+## 3. Notifikasi Terlambat
+![Notifikasi Terlambat](ss-testing/dashboard-terlambat.png)
+![Notifikasi Terlambat](ss-testing/transaksi-terlambat.png)
+![Notifikasi Terlambat](ss-testing/detail-terlaambat.png)
